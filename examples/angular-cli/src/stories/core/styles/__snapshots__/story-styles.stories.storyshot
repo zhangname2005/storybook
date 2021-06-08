@@ -8,7 +8,7 @@ exports[`Storyshots Core / Story host styles With Args 1`] = `
     ng-reflect-text="Button with custom styles"
   >
     <button
-      _ngcontent-a-c43=""
+      _ngcontent-a-c48=""
     >
       Button with custom styles
     </button>
@@ -24,7 +24,7 @@ exports[`Storyshots Core / Story host styles With story template 1`] = `
     ng-reflect-text="Button with custom styles"
   >
     <button
-      _ngcontent-a-c43=""
+      _ngcontent-a-c48=""
     >
       Button with custom styles
     </button>
