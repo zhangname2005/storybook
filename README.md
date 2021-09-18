@@ -7,7 +7,7 @@
 <p align="center">Build bulletproof UI components faster</p>
 
 <br/>
-
+<br/>
 <p align="center">
   <a href="https://circleci.com/gh/storybookjs/storybook">
     <img src="https://circleci.com/gh/storybookjs/storybook.svg?style=shield" alt="Build Status on CircleCI" />
